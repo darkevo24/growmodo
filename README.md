@@ -19,7 +19,7 @@ MySQL database
 Setup
 Clone the repository:
 
-git clone https://github.com/your-username/registration-app.git
+git clone  https://github.com/darkevo24/growmodo.git
 Navigate to the project directory:
 
 cd registration-app
